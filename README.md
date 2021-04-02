@@ -1,5 +1,7 @@
 # Emerging Topics in Information Technology (ETIT) - IT6070
 
+> # Deployed Application [Link](https://akmalahmed525.github.io/etit-assignment/#/)
+
 ## Development Setup
 
 > **This is tested on Linux environment (Ubuntu 20.04.2 LTS)**
@@ -22,7 +24,8 @@
 >
 > ---
 >
-> ## **M. A. A. Akmal (MS19806778)**  
+> ## **M. A. A. Akmal (MS19806778)**
+>
 > Faculty of Graduate Studies and Research  
 > Sri Lanka Institute of Information Technology  
 > Sri Lanka
